@@ -12,18 +12,14 @@
     <td width='50%'>
       <h2 align='center'>Library App</h2>
       <div align='center'>  
-        <img src='img/Library-Screenshot.png' alt='Library-app' width='50%'/>
+        <img src='img/Library-Screenshot.png' alt='Library-app' width='100%'/>
       </div>
     </td>
-  </tr>
-  <tr>
-  <tr>
     <td width='50%'>
       <h2 align='center'>Etch-A-Sketch</h2>
       <div align='center'>  
-        <img src='img/Etch-A-Sketch.png' alt='Etch-A-Sketch' width='50%'/>
+        <img src='img/Etch-A-Sketch.png' alt='Etch-A-Sketch' width='100%'/>
       </div>
     </td>
   </tr>
-  <tr>
 </table>
