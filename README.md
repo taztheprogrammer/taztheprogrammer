@@ -12,12 +12,12 @@
     <td width ='50%'>
     <h2 align='center'>The Type Game</h2>
       <div align='center'>  
-        <img src='img/Library-Screenshot.png' alt='Type-app' width='100%'/>
+        <img src='img/typeGameScreenshot.png' alt='Type-app' width='100%'/>
       </div>
     <td width ='50%'>
     <h2 align='center'>Calc App</h2>
       <div align='center'>  
-        <img src='img/Library-Screenshot.png' alt='Calc-app' width='100%'/>
+        <img src='img/Calculator.png' alt='Calc-app' width='100%'/>
       </div>
   </tr>
   <tr>
