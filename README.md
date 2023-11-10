@@ -9,16 +9,26 @@
 
 <table>
   <tr>
+     <td width ='100%' colspan='2'>
+    <h2 align='center'>To-Do App</h2>
+      <div align='center'>  
+        Coming Soon
+      </div>
+    </td>
+  </tr>
+  <tr>
     <td width ='50%'>
     <h2 align='center'>The Type Game</h2>
       <div align='center'>  
         <img src='img/typeGameScreenshot.png' alt='Type-app' width='100%'/>
       </div>
+    </td>
     <td width ='50%'>
     <h2 align='center'>Calc App</h2>
       <div align='center'>  
         <img src='img/Calculator.png' alt='Calc-app' width='100%'/>
       </div>
+    </td>
   </tr>
   <tr>
     <td width='50%'>
