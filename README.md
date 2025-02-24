@@ -22,7 +22,9 @@
     <td width ='50%'>
     <h2 align='center'>The Type Game</h2>
       <div align='center'>  
+        <a href="https://taztheprogrammer.github.io/TheTypeGame">
         <img src='img/typeGameScreenshot.png' alt='Type-app' width='100%' href="https://taztheprogrammer.github.io/TheTypeGame"/>
+        </a>
       </div>
     </td>
     <td width ='50%'>
