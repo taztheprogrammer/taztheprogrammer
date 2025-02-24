@@ -29,8 +29,10 @@
     </td>
     <td width ='50%'>
     <h2 align='center'>Calc App</h2>
-      <div align='center'>  
+      <div align='center'> 
+        <a href="https://taztheprogrammer.github.io/Calculator">
         <img src='img/Calculator.png' alt='Calc-app' width='100%' href="https://taztheprogrammer.github.io/Calculator"/>
+        </a>
       </div>
     </td>
   </tr>
@@ -38,13 +40,17 @@
     <td width='50%'>
       <h2 align='center'>Library App</h2>
       <div align='center'>  
+        <a href="https://taztheprogrammer.github.io/Library">
         <img src='img/Library-Screenshot.png' alt='Library-app' width='100%' href="https://taztheprogrammer.github.io/Library"/>
+        </a>
       </div>
     </td>
     <td width='50%'>
       <h2 align='center'>Etch-A-Sketch</h2>
       <div align='center'>  
+        <a href="https://taztheprogrammer.github.io/Etch-a-Sketch">
         <img src='img/Etch-A-Sketch.png' alt='Etch-A-Sketch' width='100%' href="https://taztheprogrammer.github.io/Etch-a-Sketch"/>
+        </a>
       </div>
     </td>
   </tr>
