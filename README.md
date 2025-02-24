@@ -22,13 +22,13 @@
     <td width ='50%'>
     <h2 align='center'>The Type Game</h2>
       <div align='center'>  
-        <img src='img/typeGameScreenshot.png' alt='Type-app' width='100%'/>
+        <img src='img/typeGameScreenshot.png' alt='Type-app' width='100%' href="https://taztheprogrammer.github.io/TheTypeGame"/>
       </div>
     </td>
     <td width ='50%'>
     <h2 align='center'>Calc App</h2>
       <div align='center'>  
-        <img src='img/Calculator.png' alt='Calc-app' width='100%'/>
+        <img src='img/Calculator.png' alt='Calc-app' width='100%' href="https://taztheprogrammer.github.io/Calculator"/>
       </div>
     </td>
   </tr>
@@ -36,13 +36,13 @@
     <td width='50%'>
       <h2 align='center'>Library App</h2>
       <div align='center'>  
-        <img src='img/Library-Screenshot.png' alt='Library-app' width='100%'/>
+        <img src='img/Library-Screenshot.png' alt='Library-app' width='100%' href="https://taztheprogrammer.github.io/Library"/>
       </div>
     </td>
     <td width='50%'>
       <h2 align='center'>Etch-A-Sketch</h2>
       <div align='center'>  
-        <img src='img/Etch-A-Sketch.png' alt='Etch-A-Sketch' width='100%'/>
+        <img src='img/Etch-A-Sketch.png' alt='Etch-A-Sketch' width='100%' href="https://taztheprogrammer.github.io/Etch-a-Sketch"/>
       </div>
     </td>
   </tr>
