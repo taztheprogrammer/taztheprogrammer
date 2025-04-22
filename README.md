@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Tasnim Jilal</h1>
+<h1 align="center">Hi! , I'm Tasnim Jilal</h1>
 <h3 align="center">I am an aspiring software developer interested in all things programming and hobby game designer.</h3>
 
 <h3>Who Am I?</h3>
